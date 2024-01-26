@@ -4,6 +4,7 @@ Selection Sort is a simple sorting algorithm that divides the input list into tw
 # WHY NEED SELECTION SORT
 
 -Ease of Implementation
+
 -Simplicity
 
 # TIME COMPLEXITY
